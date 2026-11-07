@@ -1,25 +1,65 @@
+
 <h1 align="center">Hi 👋, I'm Manya Dawar</h1>
-<h3 align="center">3rd Year Software Engineering Co-op student @ University of Alberta</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manyadawar&label=Profile%20views&color=0e75b6&style=flat" alt="manyadawar" /> </p>
+<h3 align="center">Cybersecurity Enthusiast | Software Engineering Student @ University of Alberta</h3>
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **SpringBoot 3 and Spring AI**
-
-- 📫 How to reach me **manya.dawar09@gmail.com**
-
-- ⚡ Fun fact **I have a photographic memory.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manya dawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manya dawar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mannnnyyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mannnnyyyy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manyadawar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+I'm interested in cybersecurity, particularly security operations, threat detection, cloud security, and investigating suspicious activity. I enjoy exploring how systems work, identifying vulnerabilities, analyzing logs, and understanding attacker behaviour.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manyadawar&show_icons=true&locale=en&layout=compact" alt="manyadawar" /></p>
+- 🔭 Currently working on an **SSH Honeypot Research Lab** using Cowrie and Kali Linux.
+- 🌱 Exploring **SIEM, threat hunting, network security, malware analysis, and AWS security**.
+- 🔐 Interested in hands-on cybersecurity labs, security investigations, and defensive security.
+- 📫 Reach me at **manya.dawar09@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manyadawar&show_icons=true&locale=en" alt="manyadawar" /></p>
+---
+
+<h3 align="left">🛡️ Certifications</h3>
+
+- CompTIA Security+ — August 2026
+- AWS Certified Solutions Architect – Associate — August 2026
+
+---
+
+<h3 align="left">🔍 Areas of Interest</h3>
+
+- Security Operations (SOC)
+- Threat Detection & Hunting
+- Network Security
+- Cloud Security & Zero Trust Architecture
+- Malware Analysis
+- Digital Forensics
+
+---
+
+<h3 align="left">🧰 Tools & Technologies</h3>
+
+**Security Tools:** Splunk, Nmap, Burp Suite, Wireshark, Hashcat, Sysmon, Cowrie
+
+**Cloud & Infrastructure:** AWS, Docker, Linux, Kali Linux, Windows
+
+**Languages & Scripting:** Python, Bash, SQL
+
+**Other:** Git, GitHub
+
+---
+
+<h3 align="left">📂 Featured Projects</h3>
+
+- **Splunk Mini-SOC:** Windows event log monitoring, SPL-based detection, and security investigations.
+- **Zero Trust AWS Microservices:** Cloud security architecture, network segmentation, and least-privilege access controls.
+- **SSH Honeypot Research Lab:** SSH attacker interaction monitoring, simulated Linux filesystem, and command analysis.
+
+---
+
+<h3 align="left">🤝 Connect with me</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/manya-dawar/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+</p>
